@@ -2,6 +2,7 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 import streamlit as st
+import plotly_express as px
 import chart_studio.plotly as py
 
 st.set_page_config(
@@ -11,7 +12,5 @@ st.set_page_config(
 
 PAGE_TITLE = "Exploratory Data Analysis"
 st.sidebar.header("Visualizations")
-
-import plotly_express as px
 
 st.markdown("<h2 style='text-align: center; color: #4169e1;margin-top:-50px;font-weight:bold'>OMDENA-DRIQ HEALTH</h2>", unsafe_allow_html=True)
