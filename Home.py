@@ -28,6 +28,11 @@ with col1:
     startup Driq Health´s non-contact sensor monitoring can solve this by allowing real-time notifications for timely \
     diaper changes as well as providing mobility alerts.
     
+    Goals of this Project comprises of :
+    
+    - Develop a more accurate wet vs. dry state that reduces the current false positive rate, which is 20%. \
+    - Help prevent skin breakdown by preventing seniors from chronically lying in the same position in bed by detecting resident positional changes and issuing alerts.
+
     Scope of the Project involves :
 
     - work on the EDA to provide different visualizations and feedback on the data quality and quantity. \
@@ -38,3 +43,5 @@ with col1:
     - Decide whether it is optimal to integrate the model using an edge approach managed on the device or on the cloud. \
     
     """,  unsafe_allow_html=True)
+    
+    
