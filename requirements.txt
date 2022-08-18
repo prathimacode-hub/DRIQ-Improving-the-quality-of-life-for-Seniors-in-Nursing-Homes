@@ -8,10 +8,9 @@ pathlib
 pandas
 numpy
 plotly_express
-
+chart_studio
 
 #folium
 #geopandas
 #streamlit_folium
-#chart_studio
 #pickleshare 
