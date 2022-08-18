@@ -11,6 +11,7 @@ st.set_page_config(
 )
 
 PAGE_TITLE = "Exploratory Data Analysis"
+
 st.sidebar.header("Visualizations")
 
-st.markdown("<h2 style='text-align: center; color: #4169e1;margin-top:-50px;font-weight:bold'>OMDENA-DRIQ HEALTH</h2>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center; color: #4169e1;margin-top:-50px;font-weight:bold'> OMDENA-DRIQ HEALTH </h3>", unsafe_allow_html=True)
