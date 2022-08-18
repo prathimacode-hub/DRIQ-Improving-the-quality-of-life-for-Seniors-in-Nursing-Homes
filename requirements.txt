@@ -1,0 +1,17 @@
+osmnx==1.2.0
+plotly==5.3.0
+plotly-express==0.4.1
+streamlit
+imageio
+requests
+pathlib
+pandas
+numpy
+plotly_express
+
+
+#folium
+#geopandas
+#streamlit_folium
+#chart_studio
+#pickleshare 
