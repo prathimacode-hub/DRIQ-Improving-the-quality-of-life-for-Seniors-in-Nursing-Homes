@@ -12,7 +12,14 @@ st.subheader("Overview")
 
 st.markdown(f'Timeline from the Start of the Week: ')
 
-st.markdown('<h3 style=color:#4169e1;">Week 1-2</h1>', unsafe_allow_html=True)
+st.markdown('<h4 style=color:#4169e1;">Week 1-2</h4>', unsafe_allow_html=True)
+
+st.markdown(""" 
+* 
+
+""", unsafe_allow_html=True)
+
+st.markdown('<h4 style=color:#4169e1;">Week 3-4</h4>', unsafe_allow_html=True)
 
 st.markdown(""" 
 * 
