@@ -12,4 +12,4 @@ st.markdown("""
 
 st.subheader('Product Lead')
 
-st.markdown('[]()')
+st.markdown('[Armielyn Obinguar](https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)')
